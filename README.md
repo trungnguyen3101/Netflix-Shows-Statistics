@@ -32,7 +32,7 @@ The dataset used is **`netflix_titles.csv`**, which contains details about movie
 ## 🚀 Insights
 - **TV-MA** is the most common rating, followed by **TV-14**.
 - **International Movies and Dramas** dominate Netflix's catalog.
-- Netflix's content production peaked between **2015-2018**, then suddenly fell from 2019 onward.
+- Netflix's content production peaked between **2015-2018**, then suddenly fell from **2019** onward.
 - The **United States** is the leading producer of Netflix shows.
 
 
